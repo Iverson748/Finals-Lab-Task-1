@@ -60,4 +60,5 @@ employee_id: Integer, foreign key referencing employee_id in employees.
 ![managers struct](https://github.com/user-attachments/assets/7546afbe-286f-48c6-8ab2-c932cdc8cc85)
 
 ## ER Diagram
-![erdfn2 jpg](https://github.com/user-attachments/assets/8146a06c-65ff-4a79-a53a-f46cdcced4da)
+![erd1 jpg](https://github.com/user-attachments/assets/96fcd07e-de52-414c-86e0-169e021d7030)
+
